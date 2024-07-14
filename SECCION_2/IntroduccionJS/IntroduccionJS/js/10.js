@@ -36,3 +36,6 @@ const tecnologias3 = tecnologias.map(function(tech) {
     }
 })
 console.log(tecnologias3);
+
+
+
